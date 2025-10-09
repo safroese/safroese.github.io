@@ -39,6 +39,7 @@ Used Visio and SQL to semi-automate org chart creation for 500+ staff. Saved HR 
 ### 🔹 Operational Applications
 **Vehicle Reservation System**  
 Replaced paper-based vehicle booking with a Microsoft Forms + Power Automate solution. Unified six counties under one digital process.
+![Vehicle Reservation Screenshot](carrequest.png)
 
 **Mileage Tracking App**  
 Digitized mileage reporting for staff travel. Improved data security and reduced clerical workload.
