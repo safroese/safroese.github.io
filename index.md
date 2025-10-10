@@ -25,16 +25,20 @@ Automated a complex Excel-based payroll allocation process using SQL Server and 
 
 **EHR Payroll Data Upload**  
 Built a Power App-triggered SQL process that generates XML files for vendor upload via SFTP. Reduced manual Excel work and streamlined compliance reporting.
+![EHR Payroll Screenshot](ehr-form.png)
+![EHR Process Screenshot](ehr-process.png)
 
 ### 🔹 HR & Staff Systems
 **HR Profile Change Alerts**  
 Created a SQL + Power Automate system that tracks daily HR profile changes and sends alerts to IT ticketing. Eliminated manual reporting and improved data accuracy.
+![HR Profile Change Screenshot](e3changes.png)
 
 **HR Software Migration**  
 Rebuilt ETL pipelines and downstream reports following a major HR system change. Successfully transitioned to new data structures under tight deadlines.
 
 **Organizational Charts Automation**  
 Used Visio and SQL to semi-automate org chart creation for 500+ staff. Saved HR hours of manual updates.
+![Org Chart Screenshot](orgchart.png)
 
 ### 🔹 Operational Applications
 **Vehicle Reservation System**  
@@ -43,6 +47,7 @@ Replaced paper-based vehicle booking with a Microsoft Forms + Power Automate sol
 
 **Mileage Tracking App**  
 Digitized mileage reporting for staff travel. Improved data security and reduced clerical workload.
+![Mileage Tracking Screenshot](miletracker.png)
 
 **Safety Incident Reporting**  
 Built a modern incident reporting app using Forms, SQL, and Power Automate. Automated alerts and centralized data storage.
@@ -92,6 +97,7 @@ Implemented SSH key authentication and SQL encryption for EHR data replication. 
 - **IT**: Upgrade tracking, phone usage  
 - **Finance**: Services, payroll, benefits  
 - **Health Services**: Grant-funded project dashboards
+![IHD Screenshot](ihd.png)
 
 ---
 
