@@ -107,4 +107,8 @@ Implemented SSH key authentication and SQL encryption for EHR data replication. 
 ---
 
 ## 📬 Contact
-*Details to be added*
+You can reach me here:
+
+📧 Email: safroesephd@gmail.com
+
+💼 LinkedIn: linkedin.com/in/shannonafroese
