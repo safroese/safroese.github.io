@@ -6,7 +6,11 @@ permalink: /
 
 # Welcome to My Portfolio
 
-<p align="center"><strong>Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions.</strong></p>
+
+<div style="text-align:center; font-size:1.2em; font-weight:bold; margin-top:1em;">
+  Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions.
+</div>
+
 
 Explore my work and background:
 
