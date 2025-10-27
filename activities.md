@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Activities
-nav_order: 4
+title: "Other Activities"
+layout: single
 permalink: /activities/
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: default
-title: About
-nav_order: 2
+title: "About Me"
+layout: single
 permalink: /about/
 ---
+
 
 ## 🧠 About Me
 

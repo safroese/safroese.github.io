@@ -1,11 +1,10 @@
 ---
-layout: default
-title: Contact
-nav_order: 6
+title: "Contact Information"
+layout: single
 permalink: /contact/
 ---
 
-## 📬 Contact
+## 📬 Contact Information
 
 You can reach me here:
 

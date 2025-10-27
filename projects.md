@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Projects
-nav_order: 3
+title: "Projects"
+layout: single
 permalink: /projects/
 ---
 

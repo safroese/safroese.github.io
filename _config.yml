@@ -1,24 +1,50 @@
-title: Shannon Froese Portfolio
-description: A personal portfolio site
+title: "Shannon Froese"
+description: "Database Administrator · Automation Architect"
 baseurl: "" # leave empty unless your site is in a subfolder
 url: "https://safroese.github.io" # replace with your GitHub Pages URL
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+
 plugins:
   - jekyll-include-cache
 
-# Optional settings
 markdown: kramdown
 highlighter: rouge
 
-# Author info (optional)
 author:
-  name: Shannon Froese
-  avatar: "/headshot.jpg" # path to your headshot
-  bio: "Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions."
+  name: "Shannon Froese"
+  avatar: "/headshot.jpg"
+  bio: "Bridging business and technology through data-driven solutions."
 
-# Social links (optional)
 social:
+  type:  # optional: "person" or "organization"
   links:
     - https://www.linkedin.com/in/shannonafroese
     - https://github.com/safroese
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+
+include:
+  - _data
+  - _includes
+  - _sass
+  - _pages
+
+atom_feed:
+  hide: true
