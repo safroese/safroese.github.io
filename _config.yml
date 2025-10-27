@@ -1,2 +1,18 @@
-title: Shannon Froese Portfolio
-theme: jekyll-theme-cayman
+title: Shannon Froese
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+# Optional: Add navigation links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Activities
+    url: /activities/
+  - title: Recognition
+    url: /recognition/
+  - title: Contact
+    url: /contact/
