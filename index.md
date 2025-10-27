@@ -6,7 +6,7 @@ permalink: /
 
 
 <div style="text-align:center; margin-top:1em;">
-  <img src="/main/headshot.jpg" style="border-radius:50%; width:150px; height:150px;">
+  <img src="/headshot.jpg" style="border-radius:50%; width:150px; height:150px;">
 </div>
 
 
