@@ -4,6 +4,12 @@ title: Home
 permalink: /
 ---
 
+
+<div style="text-align:center; margin-top:1em;">
+  <img src="/images/headshot.jpg" alt="Shannon Froese" style="border-radius:50%; width:150px; height:150px;">
+</div>
+
+
 # Welcome to My Portfolio
 
 
