@@ -1,5 +1,5 @@
-title: "Shannon Froese"
-description: "Database Administrator · Automation Architect"
+title: "Shannon Froese Portfolio"
+description: "Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions."
 baseurl: "" # leave empty unless your site is in a subfolder
 url: "https://safroese.github.io" # replace with your GitHub Pages URL
 
@@ -9,16 +9,19 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
 
+# Optional settings
 markdown: kramdown
 highlighter: rouge
 
+# Author info (optional)
 author:
   name: "Shannon Froese"
   avatar: "/headshot.jpg"
-  bio: "Bridging business and technology through data-driven solutions."
+  bio: "Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions."
 
+# Social links (optional)
 social:
-  type:  # optional: "person" or "organization"
+  type: person
   links:
     - https://www.linkedin.com/in/shannonafroese
     - https://github.com/safroese
