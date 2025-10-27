@@ -1,22 +1,24 @@
-title: Shannon Froese
-remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+title: Shannon Froese Portfolio
+description: A personal portfolio site
+baseurl: "" # leave empty unless your site is in a subfolder
+url: "https://safroese.github.io" # replace with your GitHub Pages URL
 
-just_the_docs:
-  navigation:
-    structure: flat
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 
-# Optional: Add navigation links
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
-  - title: Activities
-    url: /activities/
-  - title: Recognition
-    url: /recognition/
-  - title: Contact
-    url: /contact/
+# Optional settings
+markdown: kramdown
+highlighter: rouge
+
+# Author info (optional)
+author:
+  name: Shannon Froese
+  avatar: "/headshot.jpg" # path to your headshot
+  bio: "Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions."
+
+# Social links (optional)
+social:
+  links:
+    - https://www.linkedin.com/in/shannonafroese
+    - https://github.com/safroese
