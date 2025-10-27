@@ -2,6 +2,10 @@ title: Shannon Froese
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
+just_the_docs:
+  navigation:
+    structure: flat
+
 # Optional: Add navigation links
 nav:
   - title: Home
