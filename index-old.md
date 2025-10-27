@@ -1,3 +1,10 @@
+---
+layout: default
+title: Old Index
+nav_exclude: true
+permalink: /index-old/
+---
+
 # Database Administrator | Automation Architect | Bridging Clinical Insight with Technical Precision
 
 ## 🧠 About Me
