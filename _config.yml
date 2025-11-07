@@ -16,7 +16,7 @@ highlighter: rouge
 # Author info (optional)
 author:
   name: "Shannon Froese"
-  avatar: "/headshot.jpg"
+  avatar: "/assets/images/headshot.jpg"
   bio: "Database Administrator · Automation Architect · Bridging business and technology through data-driven solutions."
 
 # Social links (optional)
