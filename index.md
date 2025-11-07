@@ -19,11 +19,12 @@ permalink: /
 <div style="text-align:center; margin-top:2em;">
   <h2>Explore My Background and Work</h2>
 
-  <ul style="list-style:none; padding:0;">
-    <li><a href="/about/">About Me</a></li>
-    <li><a href="/projects/">Highlighted Projects</a></li>
-    <li><a href="/activities/">Other Activities</a></li>
-    <li><a href="/recognition/">Testimonials/Recognition</a></li>
-    <li><a href="/contact/">Contact Information</a></li>
-  </ul>
+<ul style="list-style:none; padding:0;">
+  <li><a href="/about/">About Me</a></li>
+  <li><a href="/projects/">Highlighted Projects</a></li>
+  <li><a href="/activities/">Other Activities</a></li>
+  <li><a href="/recognition/">Testimonials/Recognition</a></li>
+  <li><a href="/contact/">Contact Information</a></li>
+  <li><a href="/assets/Shannon_Froese_CV.pdf" target="_blank">Download My CV</a></li>
+</ul>
 </div>
