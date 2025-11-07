@@ -13,6 +13,7 @@ Automated a complex Excel-based payroll allocation process using SQL Server and 
 
 **EHR Payroll Data Upload**  
 Built a Power App-triggered SQL process that generates XML files for vendor upload via SFTP. Reduced manual Excel work and streamlined compliance reporting.
+
 ![EHR Payroll Screenshot](/assets/images/ehr-form.png)
 
 ![EHR Process Screenshot](/assets/images/ehr-process.png)
