@@ -35,6 +35,7 @@ permalink: /activities/
 - **IT**: Upgrade tracking, phone usage  
 - **Finance**: Services, payroll, benefits  
 - **Health Services**: Grant-funded project dashboards
+
 ![IHD Screenshot](/assets/images/ihd.png)
 
 ---
