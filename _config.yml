@@ -51,3 +51,7 @@ include:
 
 atom_feed:
   hide: true
+
+footer:
+  custom: footer/custom.html
+
