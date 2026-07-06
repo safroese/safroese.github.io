@@ -10,8 +10,8 @@ permalink: /
     Data Systems & Automation Engineer
   </div>
 
-  <div style="font-size:0.9em; color:#ccc;">
-    *SQL Server • Automation • Data Integration • Process Optimization*
+  <div style="font-size:0.9em; color:#ccc; font-style:italic;">
+    SQL Server • Automation • Data Integration • Process Optimization
   </div>
 </div>
 
