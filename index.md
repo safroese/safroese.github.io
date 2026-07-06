@@ -7,10 +7,11 @@ permalink: /
   <img src="/assets/images/headshot.jpg" alt="Shannon Froese" style="border-radius:50%; width:130px;">
 
   <div style="margin-top:0.5em; font-size:1em; font-weight:bold;">
-    Database Administrator · Automation Architect
+    Data Systems & Automation Engineer
   </div>
+
   <div style="font-size:0.9em; color:#ccc;">
-    Bridging business and technology through data-driven solutions.
+    I design and operate data systems that replace manual workflows with scalable automation and structured data pipelines.
   </div>
 </div>
 
