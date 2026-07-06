@@ -11,13 +11,13 @@ permalink: /
   </div>
 
   <div style="font-size:0.9em; color:#ccc;">
-    I design and operate data systems that replace manual workflows with scalable automation and structured data pipelines.
+    *SQL Server • Automation • Data Integration • Process Optimization*
   </div>
 </div>
 
 ---
 
-## Overview
+## Engineering Philosophy
 
 I design and operate data systems that replace manual, error-prone workflows with scalable automation and structured data pipelines.
 
