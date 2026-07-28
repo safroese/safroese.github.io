@@ -4,7 +4,7 @@ layout: single
 permalink: /recognition/
 ---
 
-## 🌟 Testimonials & Recognition
+## Testimonials & Recognition
 
 > “We would like to give a big THANK YOU to Shannon Froese for the amazing work automating our process of uploading electronic health records to e3 for our payroll allocation.”
 
