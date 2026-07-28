@@ -56,10 +56,16 @@ My goal is not only to produce accurate data, but to build dependable systems th
 
 ---
 
-<div style="text-align:center; margin-top:2em;">
-  <h2>Explore My Background and Work</h2>
+<div style="text-align:center; margin-top:2.5em;">
 
-<ul style="list-style:none; padding:0;">
+<div style="
+font-size:1.3em;
+font-style:italic;
+color:#d6d6d6;">
+Continue Exploring
+</div>
+
+<ul style="list-style:none; padding:0; margin-top:1.2em;">
   <li><a href="/about/">About Me</a></li>
   <li><a href="/projects/">Highlighted Projects</a></li>
   <li><a href="/activities/">Other Activities</a></li>
