@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
 ### 🔹 Finance Automation
 **Payroll & Benefit Allocation**  
