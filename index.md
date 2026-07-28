@@ -17,60 +17,42 @@ permalink: /
 
 ---
 
-## Engineering Philosophy
+## What I Build
 
-I design and operate data systems that replace manual, error-prone workflows with scalable automation and structured data pipelines.
+I design and operate data systems that replace manual, error-prone workflows with reliable automation and structured data processes.
 
-My focus is on SQL Server environments, operational data workflows, and business process automation across finance, HR, and healthcare systems.
+My work centers on SQL Server, data integration, and business process automation across finance, HR, healthcare, and operational systems.
 
 ---
 
-## What I Work On
+## Areas of Focus
 
-- SQL Server data architecture and stored procedure design  
-- Payroll, finance, and operational data automation  
-- ETL-style workflows using SQL Server, Power Automate, and Excel/Power BI  
-- Data reconciliation, reporting systems, and process optimization  
-- Legacy system modernization and workflow replacement  
+- SQL Server architecture, stored procedures, and data transformation
+- Payroll, finance, HR, and operational workflow automation  
+- Data integration using SQL Server, Power Automate, Excel, and Power BI 
+- Data reconciliation, reporting processes, and downstream integrations  
+- Legacy system modernization and manual workflow replacement 
 
 ---
 
 ## Impact Snapshot
 
-- Automated complex payroll allocation logic from Excel-based workflows into SQL Server, reducing processing time from days to minutes  
-- Built automated data pipelines supporting finance and HR reporting processes  
-- Integrated SQL Server with Power Automate workflows for scheduled reporting and alerting  
-- Supported migration and modernization of legacy Access and SQL-based systems into structured database-driven processes  
+- Rebuilt complex payroll allocation logic in SQL Server, reducing processing time from days to minutes  
+- Developed automated data workflows supporting finance, HR, and operational reporting  
+- Integrated SQL Server with Power Automate for scheduled reporting, alerts, and process automation  
+- Modernized legacy Access and SQL-based processes into structured, database-driven solutions  
 
 ---
 
 ## Systems Perspective
 
-I approach data work as systems engineering.
+I approach data work as systems engineering rather than isolated reporting.
 
-- **Inputs:** operational systems (HR, payroll, EHR, finance)  
-- **Processing:** SQL Server logic, stored procedures, and transformations  
-- **Outputs:** reporting layers, automated distributions, and downstream integrations  
+- **Inputs:** HR, payroll, EHR, finance, and other operational systems 
+- **Processing:** SQL Server logic, stored procedures, transformations, and automated workflows  
+- **Outputs:** reporting layers, alerts, file integrations, and downstream business processes  
 
-The goal is not just reporting accuracy — it is eliminating manual dependency entirely where possible.
-
----
-
-## Selected Domains
-
-- Payroll & Benefits Allocation Systems  
-- Healthcare Operational Data Reporting  
-- HR Data Change Tracking & Compliance Reporting  
-- SQL Server 2022 Automation Workflows  
-- Power BI / Excel-based operational reporting layers  
-
----
-
-## Current Focus
-
-- Expanding automation across SQL Server Agent + Power Automate workflows  
-- Standardizing reusable stored procedure patterns for reporting and allocation  
-- Building a portfolio of production-grade data system components  
+My goal is not only to produce accurate data, but to build dependable systems that reduce manual effort and improve how work gets done.
 
 ---
 
