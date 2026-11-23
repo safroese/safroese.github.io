@@ -20,15 +20,23 @@ Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generat
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin: 16px 0 28px;">
 
-  <img src="/assets/images/ehr-form.png"
-       alt="EHR payroll upload form"
-       style="width: 220px; max-width: 100%; height: auto; border-radius: 8px;">
+  <a href="/assets/images/ehr-form.png" target="_blank">
+    <img src="/assets/images/ehr-form.png"
+         alt="EHR payroll upload form"
+         style="width: 220px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
 
-  <img src="/assets/images/ehr-process.png"
-       alt="EHR payroll integration process diagram"
-       style="width: 360px; max-width: 100%; height: auto; border-radius: 8px;">
+  <a href="/assets/images/ehr-process.png" target="_blank">
+    <img src="/assets/images/ehr-process.png"
+         alt="EHR payroll integration process diagram"
+         style="width: 360px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
 
 </div>
+
+<p style="font-size: 0.8em; color: #777; margin-top: -16px;">
+  Click either image to view full size.
+</p>
 
 ### 🔹 HR & Staff Systems
 **HR Profile Change Alerts**  
