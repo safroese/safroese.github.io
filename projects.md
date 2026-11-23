@@ -39,24 +39,25 @@ Developed a semi-automated organizational chart maintenance system using SQL Ser
 ![Org Chart Screenshot](/assets/images/orgchart.png)
 
 ### 🔹 Operational Applications
+
 **Vehicle Reservation System**  
-Replaced paper-based vehicle booking with a Microsoft Forms + Power Automate solution. Unified six counties under one digital process.
+Designed and implemented a digital vehicle reservation system using Microsoft Forms and Power Automate. Replaced a paper-based process with a centralized workflow supporting staff across six counties, improving reservation coordination and reducing administrative overhead.
 
 ![Vehicle Reservation Screenshot](/assets/images/carrequest.png)
 
 **Mileage Tracking App**  
-Digitized mileage reporting for staff travel. Improved data security and reduced clerical workload.
+Developed a digital mileage reporting solution to replace manual staff travel documentation. Streamlined mileage submissions, improved data security, and reduced administrative processing.
 
 ![Mileage Tracking Screenshot](/assets/images/miletracker.png)
 
 **Safety Incident Reporting**  
-Built a modern incident reporting app using Forms, SQL, and Power Automate. Automated alerts and centralized data storage.
+Developed and enhanced an automated safety incident reporting system using Microsoft Forms, SQL Server, and Power Automate. The solution captures incident information, routes notifications based on county, integrates supervisor lookup, and centralizes reporting data for HR review.
 
 **Medicaid Redetermination App**  
-Developed an ASP.NET app to track patient Medicaid eligibility. Incorporated complex logic and exceptions for COVID-era policies.
+Developed an ASP.NET application to track Medicaid eligibility and redetermination requirements. Implemented complex business rules and exceptions to accommodate changing eligibility policies during the COVID-19 public health emergency.
 
 **Operational Productivity Dashboard**  
-Rebuilt a legacy VBS-powered report into a SQL + Power BI dashboard. Improved usability and backend efficiency.
+Modernized a legacy VBScript-based reporting process into a SQL Server and Power BI dashboard. Improved data accessibility, reporting usability, and maintainability while replacing outdated processing logic.
 
 ### 🔹 Infrastructure Projects
 **SQL Server 2022 Migration**  
