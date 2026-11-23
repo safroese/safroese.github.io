@@ -7,6 +7,7 @@ classes: wide
 
 
 ## Highlighted Projects
+A selection of production systems, automation solutions, and infrastructure improvements I've designed, developed, and maintained. These projects reflect my focus on simplifying complex workflows, improving data reliability, and building practical solutions that support everyday operations.
 
 ### 🔹 Finance Automation
 **Payroll & Benefit Allocation**  
