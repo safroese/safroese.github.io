@@ -90,7 +90,19 @@ Developed a semi-automated organizational chart maintenance system using SQL Ser
 **Vehicle Reservation System**  
 Designed and implemented a digital vehicle reservation system using Microsoft Forms and Power Automate. Replaced a paper-based process with a centralized workflow supporting staff across six counties, improving reservation coordination and reducing administrative overhead.
 
-![Vehicle Reservation Screenshot](/assets/images/carrequest.png)
+<div style="margin: 16px 0 28px;">
+
+  <a href="/assets/images/carrequest.png" target="_blank">
+    <img src="/assets/images/carrequest.png"
+         alt="Vehicle reservation request form"
+         style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
+
+  <p style="font-size: 0.8em; color: #777; margin-top: 6px;">
+    Digital vehicle reservation form — click to view full size.
+  </p>
+
+</div>
 
 **Mileage Tracking App**  
 Developed a digital mileage reporting solution to replace manual staff travel documentation. Streamlined mileage submissions, improved data security, and reduced administrative processing.
