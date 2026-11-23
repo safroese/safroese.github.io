@@ -24,7 +24,9 @@ Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generat
 
 ### 🔹 HR & Staff Systems
 **HR Profile Change Alerts**  
-Created a SQL + Power Automate system that tracks daily HR profile changes and sends alerts to IT ticketing. Eliminated manual reporting and improved data accuracy.
+Designed and implemented an automated HR change-detection system using SQL Server and Power Automate. The solution monitors personnel, certifications, licenses, registrations, and education records, consolidating meaningful changes into organized daily notifications and eliminating repetitive manual review.
+
+[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/HR-Daily-Changes)
 
 ![HR Profile Change Screenshot](/assets/images/e3changes.png)
 
