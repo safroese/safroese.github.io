@@ -34,7 +34,7 @@ Designed and implemented an automated HR change-detection system using SQL Serve
 Rebuilt ETL pipelines and downstream reports following a major HR system change. Successfully transitioned to new data structures under tight deadlines.
 
 **Organizational Charts Automation**  
-Used Visio and SQL to semi-automate org chart creation for 500+ staff. Saved HR hours of manual updates.
+Developed a semi-automated organizational chart maintenance system using SQL Server, Visio, and Power Automate. The solution uses location-based color coding to improve visual organization, compares current and previous employee records to identify staffing and organizational changes, and generates actionable update instructions through automated notifications. Significantly reduced manual review and maintenance of organizational charts covering 500+ employees.
 
 ![Org Chart Screenshot](/assets/images/orgchart.png)
 
