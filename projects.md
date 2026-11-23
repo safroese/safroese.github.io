@@ -66,6 +66,7 @@ Rebuilt ETL pipelines and downstream reports following a major HR system change.
 **Organizational Charts Automation**  
 Developed a semi-automated organizational chart maintenance system using SQL Server, Visio, and Power Automate. The solution uses location-based color coding to improve visual organization, compares current and previous employee records to identify staffing and organizational changes, and generates actionable update instructions through automated notifications. Significantly reduced manual review and maintenance of organizational charts covering 500+ employees.
 
+[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/Organizational-Charts-Automation)
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin: 16px 0 28px;">
 
