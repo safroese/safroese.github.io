@@ -35,7 +35,7 @@ Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generat
 </div>
 
 <p style="font-size: 0.8em; color: #777; margin-top: -16px;">
-  Click either image to view full size.
+  EHR payroll upload process — click either image to view full size.
 </p>
 
 ### 🔹 HR & Staff Systems
