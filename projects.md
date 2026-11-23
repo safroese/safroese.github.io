@@ -64,7 +64,26 @@ Rebuilt ETL pipelines and downstream reports following a major HR system change.
 **Organizational Charts Automation**  
 Developed a semi-automated organizational chart maintenance system using SQL Server, Visio, and Power Automate. The solution uses location-based color coding to improve visual organization, compares current and previous employee records to identify staffing and organizational changes, and generates actionable update instructions through automated notifications. Significantly reduced manual review and maintenance of organizational charts covering 500+ employees.
 
-![Org Chart Screenshot](/assets/images/orgchart.png)
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin: 16px 0 28px;">
+
+  <a href="/assets/images/orgchart1.jpg" target="_blank">
+    <img src="/assets/images/orgchart1.jpg"
+         alt="Color-coded organizational chart example 1"
+         style="width: 280px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
+
+  <a href="/assets/images/orgchart2.jpg" target="_blank">
+    <img src="/assets/images/orgchart2.jpg"
+         alt="Color-coded organizational chart example 2"
+         style="width: 280px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
+
+</div>
+
+<p style="font-size: 0.8em; color: #777; margin-top: -16px;">
+  Location-based color coding — click either image to view full size.
+</p>
 
 ### 🔹 Operational Applications
 
