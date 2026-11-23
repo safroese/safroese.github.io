@@ -9,10 +9,14 @@ permalink: /projects/
 
 ### 🔹 Finance Automation
 **Payroll & Benefit Allocation**  
-Automated a complex Excel-based payroll allocation process using SQL Server and Power Automate. Replaced manual steps with scalable SQL logic to reduce finance staff workload from days to minutes.
+Designed and implemented a SQL Server-based payroll allocation system that distributes expenses across funding sources using employee service activity. Automated complex financial calculations, integrated Excel and Power Query reporting, and replaced a time-intensive manual process with repeatable, validated results.
+
+[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/Payroll-Allocation)
 
 **EHR Payroll Data Upload**  
-Built a Power App-triggered SQL process that generates XML files for vendor upload via SFTP. Reduced manual Excel work and streamlined compliance reporting.
+Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generation, and Power Apps. Created a user-friendly workflow that generates vendor-compliant payroll files, with a review checkpoint before secure SFTP delivery through a Power Automate process developed in collaboration with Network Administration.
+
+[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/EHR-Payroll-Upload)
 
 ![EHR Payroll Screenshot](/assets/images/ehr-form.png)
 
