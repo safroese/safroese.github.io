@@ -61,9 +61,9 @@ Modernized a legacy VBScript-based reporting process into a SQL Server and Power
 
 ### 🔹 Infrastructure Projects
 **SQL Server 2022 Migration**  
-Led migration from SQL Server 2019 to Azure-hosted SQL Server 2022. Coordinated vendor ETL processes and improved performance and security.
+Led the migration from SQL Server 2019 to SQL Server 2022 hosted on an Azure virtual machine. Coordinated database migration, application connectivity, vendor ETL dependencies, and downstream reporting integrations while maintaining operational continuity. Modernized the database environment and established a foundation for improved performance, security, and ongoing administration.
 
 **EHR Replica Security Upgrade**  
-Implemented SSH key authentication and SQL encryption for EHR data replication. Ensured secure and compliant data transfer.
+Enhanced the security of EHR data replication by implementing SSH key-based authentication and SQL Server connection encryption. Strengthened protection of sensitive data in transit, reduced reliance on password-based authentication, and improved the security of critical data integration processes.
 
 ---
