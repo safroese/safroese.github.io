@@ -44,7 +44,19 @@ Designed and implemented an automated HR change-detection system using SQL Serve
 
 [📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/HR-Daily-Changes)
 
-![HR Profile Change Screenshot](/assets/images/e3changes.png)
+<div style="margin: 16px 0 28px;">
+
+  <a href="/assets/images/e3changes2.jpg" target="_blank">
+    <img src="/assets/images/e3changes2.jpg"
+         alt="Automated HR profile change notification email"
+         style="width: 420px; max-width: 100%; height: auto; border-radius: 8px;">
+  </a>
+
+  <p style="font-size: 0.8em; color: #777; margin-top: 6px;">
+    Automated HR change notification — click to view full size.
+  </p>
+
+</div>
 
 **HR Software Migration**  
 Rebuilt ETL pipelines and downstream reports following a major HR system change. Successfully transitioned to new data structures under tight deadlines.
