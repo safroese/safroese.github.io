@@ -18,9 +18,17 @@ Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generat
 
 [📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/EHR-Payroll-XML-Upload)
 
-![EHR Payroll Screenshot](/assets/images/ehr-form.png)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; margin: 16px 0 28px;">
 
-![EHR Process Screenshot](/assets/images/ehr-process.png)
+  <img src="/assets/images/ehr-form.png"
+       alt="EHR payroll upload form"
+       style="width: 220px; max-width: 100%; height: auto; border-radius: 8px;">
+
+  <img src="/assets/images/ehr-process.png"
+       alt="EHR payroll integration process diagram"
+       style="width: 360px; max-width: 100%; height: auto; border-radius: 8px;">
+
+</div>
 
 ### 🔹 HR & Staff Systems
 **HR Profile Change Alerts**  
