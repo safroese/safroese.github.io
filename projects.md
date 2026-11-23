@@ -107,8 +107,6 @@ Designed and implemented a digital vehicle reservation system using Microsoft Fo
 **Mileage Tracking App**  
 Developed a digital mileage reporting solution to replace manual staff travel documentation. Streamlined mileage submissions, improved data security, and reduced administrative processing.
 
-![Mileage Tracking Screenshot](/assets/images/miletracker.png)
-
 **Safety Incident Reporting**  
 Developed and enhanced an automated safety incident reporting system using Microsoft Forms, SQL Server, and Power Automate. The solution captures incident information, routes notifications based on county, integrates supervisor lookup, and centralizes reporting data for HR review.
 
