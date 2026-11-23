@@ -16,7 +16,7 @@ Designed and implemented a SQL Server-based payroll allocation system that distr
 **EHR Payroll Data Upload**  
 Developed an end-to-end payroll integration using SQL Server, T-SQL, XML generation, and Power Apps. Created a user-friendly workflow that generates vendor-compliant payroll files, with a review checkpoint before secure SFTP delivery through a Power Automate process developed in collaboration with Network Administration.
 
-[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/EHR-Payroll-Upload)
+[📖 Read the Engineering Case Study](https://github.com/safroese/engineering-playbook/tree/main/Case-Studies/EHR-Payroll-XML-Upload)
 
 ![EHR Payroll Screenshot](/assets/images/ehr-form.png)
 
