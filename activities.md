@@ -2,6 +2,7 @@
 title: "Other Activities"
 layout: single
 permalink: /activities/
+classes: wide
 ---
 
 
