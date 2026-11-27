@@ -2,6 +2,7 @@
 title: "Recognition"
 layout: single
 permalink: /recognition/
+classes: wide
 ---
 
 ## Testimonials & Recognition
