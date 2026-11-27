@@ -2,7 +2,6 @@
 title: "Contact Information"
 layout: single
 permalink: /contact/
-classes: wide
 ---
 
 ## Contact Information
