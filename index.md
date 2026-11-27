@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /
+classes: wide
 ---
 
 <div style="text-align:center; margin-top:1em;">
